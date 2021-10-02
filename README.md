@@ -1,6 +1,7 @@
 # Project-Greenrth
 Deforestation is one of the burning challenges of the recent era that is one of the main reasons for climate change. According to UN news, between 2015-2020 10 million hectares of forest were destroyed every year giving a 35.48% decline for 2015-2020 compared to 1990-2010 and 16.67% decline compared to 2010-2015. As lack of land is also a factor, the foremost solution of deforestation is Home Gardening. We are going to use User Location, NASA’S weather data, Agricultural and Water Resources Data Pathfinder (Vegetation Data) Of NASA to suggest what type of vegetation is suitable for that area or for that region. The data will be more precise as we are using IOT. All the raw data mostly from satellites and IOT are going to show in our user-friendly app which will suggest what type of vegetation is most suitable for that area based on the data.
-![issue tab](https://drive.google.com/uc?export=download&id=1Z3qqhMba8wiL1PxG5akqDqXBP4Z3PX0a)
+
+![grrenrth](https://user-images.githubusercontent.com/69780475/135706250-3cb468ec-cdf9-4a6e-a283-40a15837ebc2.PNG)
 
 <hr>
 
