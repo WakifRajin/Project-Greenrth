@@ -1,0 +1,1 @@
+{"times":[{"TimeOfDay":"Morning","time":850,"enabled":true},{"TimeOfDay":"Noon","time":1250,"enabled":true},{"TimeOfDay":"Afternoon","time":1750,"enabled":true},{"TimeOfDay":"Evening","time":1950,"enabled":true},{"TimeOfDay":"Night","time":2050,"enabled":true}]}
